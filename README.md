@@ -20,5 +20,8 @@
 
 ![alt text](https://github.com/alejandrobelloc/MCOC2020-P1/blob/master/Entrega%202/Gr%C3%A1fico%202.png?raw=true)
 ![alt text](https://github.com/alejandrobelloc/MCOC2020-P1/blob/master/Entrega%202/Gr%C3%A1fico%203.png?raw=true)
+
+# Entrega N°4
+![alt text](https://github.com/alejandrobelloc/MCOC2020-P1/blob/master/Entrega%20N%C2%B04/Gr%C3%A1fico%20E4.png?raw=true)
    
 
