@@ -26,6 +26,7 @@
 
 # Entrega N°5
 * A continuación se observa el gráfico para la parte 1. de esta entrega, en la cual se puede analizar la posición en x,y,z que se tiene del satélite (En este caso el 1A) en función del tiempo (0 hrs, hasta las 27 hrs aprox.), donde se puede ver una relativa regularidad en el eje Z, variando de manera constante sus valores entre -5000 y +5000km cada 1.5 Hrs, en cambio, tanto en el eje x, y se analiza una distorsión en función del tiempo, de la posición del satélite. 
+
 ![alt text](https://github.com/alejandrobelloc/MCOC2020-P1/blob/master/Entrega%20N%C2%B05/E5-1.png?raw=true)
    
 
