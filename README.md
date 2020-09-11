@@ -33,4 +33,10 @@
 * Con lo anterior, se puede mencionar que al final del tiempo (25,5 a 26 Hrs), la deriva de Odeint es cercana a los 100 KM, y la de Eulerint se asemeja a unos 19.000, lo que tomó un tiempo muy breve en calcularlo y generar el gráfico, pues la complejidad de la EDO no es tan alta, debido a los pocos terminos que esta posee. 
 
 ![alt text](https://github.com/alejandrobelloc/MCOC2020-P1/blob/master/Entrega%20N%C2%B05/E5-2.png?raw=true)
+
+
+![alt text](https://github.com/alejandrobelloc/MCOC2020-P1/blob/master/Entrega%20N%C2%B05/E5-3.png?raw=true)
+![alt text](https://github.com/alejandrobelloc/MCOC2020-P1/blob/master/Entrega%20N%C2%B05/E5-4.png?raw=true)
+
+
    
