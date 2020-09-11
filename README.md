@@ -34,9 +34,13 @@
 
 ![alt text](https://github.com/alejandrobelloc/MCOC2020-P1/blob/master/Entrega%20N%C2%B05/E5-2.png?raw=true)
 
+* A continuación, se observan los gráficos con la implementación en nuestra ecuación diferencial, los parámetros de J2 y J3, lo que conlleva a una disminución de la deriva para uno de los dos métodos..
 
 ![alt text](https://github.com/alejandrobelloc/MCOC2020-P1/blob/master/Entrega%20N%C2%B05/E5-3.png?raw=true)
 ![alt text](https://github.com/alejandrobelloc/MCOC2020-P1/blob/master/Entrega%20N%C2%B05/E5-4.png?raw=true)
+
+* Como es posible observar, para odeint, se nota una leve mejora en función de las horas, pues se llega a valores relativamente pequeños a comparación de la EDO normal sin los parámetros de J2 y J3, sin embargo, no se notó una diferencia profunda en ninguno de los dos métodos, esto debido a la cantidad pequeña de valores que se le agregan a la función para hacerla más precisa. Esto también pasa con la posición en función de los diferentes ejes (x,y,z). 
+
 
 
    
